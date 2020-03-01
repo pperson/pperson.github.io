@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="load_so" value="0" />
+    <string name="load_so_version">5.9.8.10598001</string>
+</map>

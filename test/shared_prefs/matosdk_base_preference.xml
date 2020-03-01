@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="checkHealthTimeStamp" value="1575981423020" />
+    <int name="auth_fail_time_count" value="0" />
+    <int name="auth_result" value="0" />
+    <long name="auth_time" value="1575981476264" />
+    <string name="baseConfiguration">{&quot;httpsSwitch&quot;:0,&quot;apTimeInterval&quot;:24,&quot;httpReadTimeout&quot;:-1,&quot;protocolTimeOut&quot;:&quot;-1&quot;,&quot;logPolicy&quot;:{&quot;totalNum&quot;:0,&quot;num&quot;:-1,&quot;report&quot;:0,&quot;interval&quot;:0,&quot;reportUrl&quot;:&quot;http:\/\/collect.dsp.chinanetcenter.com\/file&quot;},&quot;customHeader&quot;:&quot;&quot;,&quot;dsHost&quot;:&quot;https:\/\/ds.server.matocloud.com&quot;,&quot;apSwitch&quot;:0,&quot;pmsHost&quot;:&quot;https:\/\/pms.server.matocloud.com&quot;,&quot;authMicroHost&quot;:&quot;https:\/\/auth.micro.server.matocloud.com&quot;,&quot;apHost&quot;:&quot;https:\/\/ap.micro.server.matocloud.com&quot;,&quot;debugLogReportUrl&quot;:&quot;&quot;,&quot;flowInterval&quot;:0,&quot;accessLogEnable&quot;:-1,&quot;crashLogReportUrl&quot;:&quot;&quot;,&quot;crashClear&quot;:1,&quot;requestCount&quot;:&quot;3&quot;,&quot;normalTimer&quot;:&quot;300&quot;,&quot;abnormalTimer&quot;:&quot;60&quot;,&quot;xiaowoAutoAuth&quot;:1,&quot;compatibleStatus&quot;:0}</string>
+    <string name="userInfoToken">f9ce1491193acd86fef06465407b216a</string>
+</map>

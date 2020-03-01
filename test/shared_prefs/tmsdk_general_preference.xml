@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="generalPackageID" value="530290" />
+    <int name="generalXiaowoType" value="2" />
+    <string name="generalIspCode">01</string>
+    <long name="generalXiaowoAuthFreq" value="900" />
+    <string name="generalXiaowoAuthResult">phoneNumber=&amp;osType=Android&amp;spid=99308&amp;appid=31648</string>
+    <string name="generalSysBlackList">[]</string>
+    <int name="generalWspxAvailable" value="1" />
+    <string name="generalXiaowoPID">31648_VIP0019</string>
+    <string name="generalXiaowoAppKey">xyyx2015</string>
+    <long name="generalExpired" value="1575981775" />
+    <string name="generalPhoneNumber">17631200828</string>
+    <int name="generalStatus" value="1" />
+    <int name="generalXiaowoAuthAlways" value="0" />
+    <string name="generalToken">f9ce1491193acd86fef06465407b216a</string>
+    <int name="generalXiaowoOrderStatus" value="1003" />
+    <string name="generalPmsHost">https://pms.server.matocloud.com</string>
+    <int name="generalServicStatus" value="0" />
+    <int name="generalSimStatus" value="0" />
+    <string name="generalXiaowoIdkey">35e97834bf6b73d3cdbd5223631b3ee3</string>
+    <string name="generalDsHost">https://ds.server.matocloud.com</string>
+    <string name="generalDefaultXiaowoOrderUrl">http://woshield.wostore.cn/WoShieldServer/31648/order.html?phoneNumber=&amp;osType=Android&amp;spid=99308&amp;appid=31648&amp;pid=DY0015</string>
+    <string name="generalXiaowoAppID">31648</string>
+    <int name="generalXiaowoStatus" value="0" />
+    <string name="generalDefaultXiaowoFlowUrl">http://woshield.wostore.cn/WoShieldServer/31648/flowquery.html?phoneNumber=&amp;spid=99308&amp;appid=31648&amp;osType=Android&amp;pid=DY0015</string>
+    <int name="generalFlag" value="0" />
+    <string name="generalCpOrderUrl">https://pms.server.matocloud.com/pms/is/cporder</string>
+    <string name="generalDefaultHostArray">[&quot;cache.xwshlt.server.matocloud.com&quot;]</string>
+    <string name="generalXiaowoCpID">99308</string>
+    <string name="generalXiaowoOrderUrl">http://woshield.wostore.cn/WoShieldServer/31648/order.html?phoneNumber=&amp;osType=Android&amp;spid=99308&amp;appid=31648</string>
+    <string name="generalXiaowoPhoneNumber">17631200828</string>
+    <int name="generalOrderType" value="1001" />
+    <string name="generalXiaowoFlowUrl">http://woshield.wostore.cn/WoShieldServer/31648/flowquery.html?phoneNumber=&amp;osType=Android&amp;spid=99308&amp;appid=31648</string>
+    <int name="generalIsXiaowo" value="1" />
+    <string name="generalRegionCode">0311</string>
+</map>

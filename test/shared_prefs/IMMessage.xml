@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="maxLevel" value="120" />
+    <string name="im_motorcade_create_update_time">1544189430</string>
+    <int name="im_rich_level" value="100" />
+    <string name="strangerMsgNumLimit">3</string>
+    <int name="secretary_on_off" value="1" />
+    <int name="im_motorcade_call_show_delay" value="3" />
+    <int name="yuBaRedTimes" value="1" />
+    <string name="im_official_white_list">[&quot;1008&quot;,&quot;1014&quot;,&quot;1016&quot;,&quot;1000&quot;,&quot;1001&quot;,&quot;1013&quot;,&quot;1011&quot;,&quot;1018&quot;,&quot;1019&quot;,&quot;1012&quot;]</string>
+    <string name="im_motorcade_create_card_introduce">{&quot;common&quot;:{&quot;max_admin_num&quot;:&quot;10&quot;},&quot;motorcade_config&quot;:[{&quot;create_descrip&quot;:[&quot;1. 用户等级达到70级可创建&quot;,&quot;2. 审核通过后完成创建&quot;,&quot;3. 容纳3000人、拥有荣耀勋章和5位车牌号&quot;],&quot;images&quot;:&quot;&quot;,&quot;m_name&quot;:&quot;荣耀车队&quot;,&quot;m_type&quot;:1,&quot;max_member_num&quot;:3000,&quot;number_of_digits&quot;:5,&quot;owner_max_lever&quot;:120,&quot;owner_min_lever&quot;:70},{&quot;create_descrip&quot;:[&quot;1. 用户等级达到50级可创建&quot;,&quot;2. 审核通过进入筹备期，通过筹备期后完成创建&quot;,&quot;3. 容纳2000人、拥有超凡勋章和6位车牌号&quot;],&quot;images&quot;:&quot;&quot;,&quot;m_name&quot;:&quot;超凡车队&quot;,&quot;m_type&quot;:2,&quot;max_member_num&quot;:2000,&quot;number_of_digits&quot;:6,&quot;owner_max_lever&quot;:69,&quot;owner_min_lever&quot;:50}]}</string>
+    <string name="im_user_cache_time">[{&quot;day&quot;:3,&quot;level&quot;:0},{&quot;day&quot;:5,&quot;level&quot;:31}]</string>
+    <string name="im_motorcade_update_tip">{&quot;1&quot;:&quot;70&quot;,&quot;2&quot;:&quot;60&quot;}</string>
+    <string name="im_webp_enable">1</string>
+    <int name="im_group_pendency_refresh_userable" value="1" />
+    <string name="strangerMsgPNumLimit">10</string>
+    <int name="yuBaPageSize" value="10" />
+    <string name="im_pochink_game">0</string>
+    <int name="im_motorcade_callup_show_time" value="1800" />
+    <string name="im_truth_video">0</string>
+    <long name="im_approve_time" value="1550650468" />
+    <string name="im_fb_state">1</string>
+    <string name="leader_position_on_off">1</string>
+    <int name="im_motorcade_online_member_refresh" value="60" />
+    <int name="im_game_conversation_state" value="0" />
+    <string name="im_versus_game">0</string>
+    <string name="screen_status">1</string>
+    <int name="im_big_anchor_level" value="60" />
+    <int name="im_mc_level_list_max" value="30" />
+    <string name="im_drawFish_game">0</string>
+</map>

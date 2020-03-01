@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="gkvc" value="0" />
+    <long name="a_start_time" value="0" />
+    <boolean name="main_fest_mode" value="false" />
+    <int name="last_request_spent_ms" value="2" />
+    <string name="signature">52906f8e2c1e3657d9c601002f64b1e907cf733e5fd11340f05ea9c3d2ccef5d</string>
+    <string name="ek__id">64fe8e78781f0b52</string>
+    <long name="session_start_time" value="1575981513418" />
+    <string name="session_id">63BD136A2E6725B33648838FA4590125</string>
+    <long name="last_request_time" value="1575981513485" />
+    <string name="ek_key">6QaQh9EIiCzRIniesD8/DQ==&#10;    </string>
+    <long name="thtstart" value="0" />
+    <int name="successful_request" value="4" />
+    <int name="failed_requests " value="0" />
+    <long name="session_end_time" value="1575981515428" />
+    <int name="serial" value="6" />
+    <string name="appkey">532fc23f56240b01331ed4b8</string>
+    <long name="first_activate_time" value="1575981138778" />
+    <int name="ekvc" value="0" />
+    <int name="versioncode" value="10598001" />
+    <string name="versionname">5.9.8</string>
+    <long name="main_fest_timestamp" value="0" />
+    <long name="last_req" value="1575981513485" />
+    <long name="a_end_time" value="1575981515428" />
+    <int name="vt" value="0" />
+</map>

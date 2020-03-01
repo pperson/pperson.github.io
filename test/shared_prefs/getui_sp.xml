@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="us">com.douyu.push.platform.getui.GetuiPushService</string>
+    <string name="uis">com.douyu.push.platform.getui.GetuiMessageHandleService</string>
+</map>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="common_event_write_succ" value="8" />
+    <string name="initsdkdate">2019-12-10</string>
+    <string name="APPKEY_DENGTA">1QZ819IDF7381MMU</string>
+    <int name="GEN_QIMEI_TIMES" value="1" />
+    <string name="querytimes">3</string>
+    <long name="real_time_event_write_succ" value="17" />
+    <long name="on_specified_ua_times" value="0" />
+    <string name="LAUEVE_DENGTA">2019-12-10</string>
+    <string name="active_user_date">2019-12-10</string>
+    <long name="on_normal_ua_times" value="3" />
+    <string name="APPVER_DENGTA">5.9.8.10598001</string>
+    <string name="GEN_QIMEI">2019-12-10</string>
+    <string name="rqd_model">2019-12-10</string>
+    <string name="QIMEI_DENGTA">0e7dd472954d6589</string>
+    <long name="on_sdk_ua_times" value="25" />
+    <string name="on_ua_date">2019-12-10</string>
+    <string name="on_qua_date">2019-12-10</string>
+    <long name="real_time_event_calls" value="19" />
+    <long name="real_time_event_upload_succ" value="0" />
+    <string name="key_channelpath"></string>
+    <string name="IMEI_DENGTA">866239599872063</string>
+    <long name="common_event_calls" value="8" />
+</map>

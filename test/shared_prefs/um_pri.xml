@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="um_common_battery">{&quot;le&quot;:68,&quot;vol&quot;:4015,&quot;temp&quot;:330,&quot;ts&quot;:1575981419847,&quot;st&quot;:1,&quot;ct&quot;:2}</string>
+    <string name="um_common_strength">-97</string>
+</map>

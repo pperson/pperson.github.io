@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="videos_resolution" value="-1" />
+    <boolean name="EnableUploadMobileNetwork" value="false" />
+    <boolean name="firstCloseVideoTip" value="true" />
+    <boolean name="IsSuspendOn" value="false" />
+    <boolean name="firstCloseBackgroundTip" value="true" />
+    <boolean name="IsNetWork" value="false" />
+    <boolean name="GestureEnabled" value="true" />
+    <int name="DanmakuSize" value="18" />
+    <int name="DanmakuDensity" value="1" />
+    <float name="DanmakuSpeed" value="1.0" />
+    <int name="video_resolution_state" value="-1" />
+    <int name="DanmakuBorderStyle" value="0" />
+    <long name="SuspendTime" value="900000" />
+    <boolean name="AutoListLoading" value="true" />
+    <string name="rtmp_cdn"></string>
+    <int name="VideoAspectRatio" value="0" />
+    <boolean name="autoJumpRecRoom" value="true" />
+    <boolean name="category_show_all" value="false" />
+    <boolean name="videoFloatView" value="true" />
+    <string name="RemindStatus">1</string>
+    <float name="ScreenLight" value="-1.0" />
+    <int name="DanmakuProgress" value="30" />
+    <float name="DanmakuTransparency" value="0.9" />
+    <int name="video_line" value="0" />
+    <int name="DanmakuPosition" value="10" />
+    <boolean name="playInBackground" value="true" />
+    <boolean name="EnableDownloadMobileNetwork" value="false" />
+    <boolean name="IsHighQuality" value="true" />
+</map>
