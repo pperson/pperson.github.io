@@ -115,6 +115,17 @@
         "FileURL": "https://v22.bslapp.me/api/mode/20200106/1578300202350.db"
     },
     {
+        "PublishTime": "2020-01-01",
+        "Name": "万能模式(国内百兆80端口)",
+        "Description": "需要自行编辑参数、method支持CONNECT、POST、GET",
+        "Hint": "会员专享",
+        "IsDescypted": true,
+        "IsVipOnly": true,
+        "InnerName": "1577870460751.db",
+        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+        "FileURL": "https://v22.bslapp.me/api/mode/20200101/1577871752763.db"
+    },
+    {
         "descypted": true,
         "vipOnly": true,
         "PublishTime": "2019-11-19",
