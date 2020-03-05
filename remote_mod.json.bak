@@ -1,16 +1,14 @@
 [
     {
-        "descypted": false,
-        "vipOnly": false,
-        "PublishTime": "2020-02-26",
-        "Name": "新版测试期间VIP免费",
-        "Description": "VIP到期用户免费续费、新用户免费开通 ===>",
-        "Hint": "系统通知",
-        "IsDescypted": false,
-        "IsVipOnly": false,
+        "PublishTime": "2020-03-05",
+        "Name": "修订版已发布",
+        "Description": "点击设置闪退的请自行至官网下载更新",
+        "Hint": "系统公告",
+        "IsDescypted": true,
+        "IsVipOnly": true,
         "InnerName": "1573995446105.db",
-        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",
-        "FileURL": "https://bslapp.me/pay/"
+        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+        "FileURL": "https://bslapp.me/"
     },
 	{
         "PublishTime": "2020-02-26",
