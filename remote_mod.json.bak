@@ -1,8 +1,8 @@
 [
     {
-        "PublishTime": "2020-03-05",
-        "Name": "修订版已发布",
-        "Description": "点击设置闪退的请自行至官网下载更新",
+        "PublishTime": "2020-03-07",
+        "Name": "修订版又发布了",
+        "Description": "UDP免流和低跳不能同开的请自行至官网更新",
         "Hint": "系统公告",
         "IsDescypted": true,
         "IsVipOnly": true,
@@ -59,7 +59,7 @@
 	{
 	    "PublishTime": "2020-03-07",
 	    "Name": "全国电信绿通",
-	    "Description": "全国通用电信停机保号模式，必须开启低跳模式",
+	    "Description": "通用电信停机保号模式，设置中要开低跳",
 	    "Hint": "会员专享",
     	"IsDescypted": true,
 	    "IsVipOnly": true,

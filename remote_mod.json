@@ -1,8 +1,8 @@
 [
     {
-        "PublishTime": "2020-03-05",
-        "Name": "修订版已发布",
-        "Description": "点击设置闪退的请自行至官网下载更新",
+        "PublishTime": "2020-03-07",
+        "Name": "修订版又发布了",
+        "Description": "强烈建议更新：解决UDP/低跳不能同开，优化低跳模式",
         "Hint": "系统公告",
         "IsDescypted": true,
         "IsVipOnly": true,
