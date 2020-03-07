@@ -59,7 +59,7 @@
 	{
 	    "PublishTime": "2020-03-07",
 	    "Name": "全国电信绿通",
-	    "Description": "全国通用电信停机保号模式",
+	    "Description": "全国通用电信停机保号模式，必须开启低跳模式",
 	    "Hint": "会员专享",
     	"IsDescypted": true,
 	    "IsVipOnly": true,
