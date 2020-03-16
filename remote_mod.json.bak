@@ -2,7 +2,7 @@
     {
         "PublishTime": "2020-03-07",
         "Name": "修订版又发布了",
-        "Description": "UDP免流和低跳不能同开的请自行至官网更新",
+        "Description": "强烈建议更新：解决UDP/低跳不能同开，优化低跳模式",
         "Hint": "系统公告",
         "IsDescypted": true,
         "IsVipOnly": true,
@@ -56,6 +56,17 @@
         "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
         "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20200106/1573995446105.db"
     },
+	{
+	"PublishTime": "2020-03-16",
+	"Name": "山东联通",
+	"Description": "山东联通专用模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1584333897140.db",
+	"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+	"FileURL": "https://api.bslapp.me:39900/api/v1/mode/20200316/1584333897140.db"
+     },
 	{
 	    "PublishTime": "2020-03-07",
 	    "Name": "全国电信绿通",
