@@ -59,7 +59,7 @@
 	{
 	"PublishTime": "2020-03-16",
 	"Name": "山东联通",
-	"Description": "山东联通专用模式",
+	"Description": "山东联通专用模式，下载后把请求方法改成CONNECT",
 	"Hint": "会员专享",
 	"IsDescypted": true,
 	"IsVipOnly": true,
