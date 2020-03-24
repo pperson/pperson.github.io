@@ -24,8 +24,8 @@
     {
         "descypted": false,
         "vipOnly": false,
-        "PublishTime": "2020-01-06",
-        "Name": "逍遥游3号升级完成",
+        "PublishTime": "2020-03-24",
+        "Name": "逍遥游4号全新发布",
         "Description": "船新技术支撑，7*24小时稳定高速，可过40G",
         "Hint": "系统通知",
         "IsDescypted": false,
@@ -35,8 +35,8 @@
         "FileURL": "https://t.me/bslml123"
     },
     {
-        "PublishTime": "2020-01-06",
-        "Name": "逍遥游3号内测链接",
+        "PublishTime": "2020-03-24",
+        "Name": "逍遥游4号内测链接",
         "Description": "点我1元体验逍遥游====>",
         "Hint": "系统公告",
         "IsDescypted": true,
@@ -44,6 +44,17 @@
         "InnerName": "1573995446105.db",
         "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
         "FileURL": "https://www.heimaofaka.com/item/sowrfLYAtqwAsXl2toh="
+    },
+    {
+        "PublishTime": "2020-03-24",
+        "Name": "逍遥游四号",
+        "Description": "抟扶摇而上者九万里。",
+        "Hint": "内测模式",
+        "IsDescypted": true,
+        "IsVipOnly": true,
+        "InnerName": "1585054685162.db",
+        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20200324/1585054685162.db"
     },
     {
         "PublishTime": "2020-01-06",
