@@ -310,7 +310,7 @@
         "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20190917/1568690995599.db"
     },
     {
-        "PublishTime": "2019-07-15",
+        "PublishTime": "2020-04-04",
         "Name": "大王卡全局HTTPS_北京",
         "Description": "大王卡全局HTTPS,北京数据中心",
         "Hint": "会员专享",
@@ -321,7 +321,7 @@
         "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20190715/1563194769486.db"
     },
     {
-        "PublishTime": "2019-07-15",
+        "PublishTime": "2020-04-04",
         "Name": "大王卡全局HTTPS_重庆",
         "Description": "大王卡全局HTTPS,重庆数据中心",
         "Hint": "会员专享",
@@ -332,7 +332,7 @@
         "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20190715/1563194770578.db"
     },
     {
-        "PublishTime": "2019-07-15",
+        "PublishTime": "2020-04-04",
         "Name": "大王卡全局HTTPS_上海",
         "Description": "大王卡全局HTTPS,上海数据中心",
         "Hint": "会员专享",
@@ -343,7 +343,7 @@
         "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20190715/1563194771675.db"
     },
     {
-        "PublishTime": "2019-07-15",
+        "PublishTime": "2020-04-04",
         "Name": "大王卡全局HTTPS_深圳",
         "Description": "大王卡全局HTTPS,深圳数据中心",
         "Hint": "会员专享",
@@ -354,7 +354,7 @@
         "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20190715/1563194773045.db"
     },
     {
-        "PublishTime": "2019-07-15",
+        "PublishTime": "2020-04-04",
         "Name": "大王卡全局HTTPS_天津",
         "Description": "大王卡全局HTTPS,天津数据中心",
         "Hint": "会员专享",
@@ -380,45 +380,6 @@
     {
         "descypted": true,
         "vipOnly": true,
-        "Name": "大王卡华东2",
-        "Description": "大王卡全国通用，用户选最快的节点即可",
-        "Hint": "会员专享",
-        "IsDescypted": true,
-        "PublishTime": "2019-05-07",
-        "IsVipOnly": true,
-        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20180809/1533806490052.db",
-        "InnerName": "1533806490052.db",
-        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
-    },
-    {
-        "descypted": true,
-        "vipOnly": true,
-        "Name": "大王卡华北1",
-        "Description": "大王卡全国通用，用户选最快的节点即可",
-        "Hint": "会员专享",
-        "IsDescypted": true,
-        "PublishTime": "2019-05-07",
-        "IsVipOnly": true,
-        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20180809/1533806491502.db",
-        "InnerName": "1533806491502.db",
-        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
-    },
-    {
-        "descypted": true,
-        "vipOnly": true,
-        "Name": "大王卡华北2",
-        "Description": "大王卡全国通用，用户选最快的节点即可",
-        "Hint": "会员专享",
-        "IsDescypted": true,
-        "PublishTime": "2019-05-07",
-        "IsVipOnly": true,
-        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20180809/1533806493923.db",
-        "InnerName": "1533806493923.db",
-        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
-    },
-    {
-        "descypted": true,
-        "vipOnly": true,
         "Name": "大王卡华南1",
         "Description": "大王卡全国通用，用户选最快的节点即可",
         "Hint": "会员专享",
@@ -428,31 +389,5 @@
         "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20180809/1533806494976.db",
         "InnerName": "1533806494976.db",
         "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
-    },
-    {
-        "descypted": true,
-        "vipOnly": true,
-        "Name": "大王卡华南2",
-        "Description": "大王卡全国通用，用户选最快的节点即可",
-        "Hint": "会员专享",
-        "IsDescypted": true,
-        "PublishTime": "2019-05-07",
-        "IsVipOnly": true,
-        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20180809/1533806496297.db",
-        "InnerName": "1533806496297.db",
-        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
-    },
-    {
-        "descypted": true,
-        "vipOnly": true,
-        "Name": "四川联通",
-        "PublishTime": "2019-01-02",
-        "Description": "[wo音乐][达州]wap模式",
-        "Hint": "会员专享",
-        "IsDescypted": true,
-        "IsVipOnly": true,
-        "InnerName": "1546440827563.db",
-        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",
-        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20190102/1546440827563.db"
     }
 ]
