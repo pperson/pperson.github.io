@@ -1,8 +1,8 @@
 [
     {
-        "PublishTime": "2020-03-07",
-        "Name": "修订版又发布了",
-        "Description": "强烈建议更新：解决UDP/低跳不能同开，优化低跳模式",
+        "PublishTime": "2020-04-05",
+        "Name": "更新了一批停机保号模式",
+        "Description": "请开启低跳模式使用，也可尝试切换CONNECT/GET/POST",
         "Hint": "系统公告",
         "IsDescypted": true,
         "IsVipOnly": true,
