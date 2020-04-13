@@ -1,14 +1,14 @@
 [
     {
-        "PublishTime": "2020-04-05",
-        "Name": "更新了一批停机保号模式",
-        "Description": "请开启低跳模式使用，也可尝试切换CONNECT/GET/POST",
+        "PublishTime": "2020-04-13",
+        "Name": "系统更新",
+        "Description": "没网的下载这个安装===>",
         "Hint": "系统公告",
         "IsDescypted": true,
         "IsVipOnly": true,
         "InnerName": "1573995446105.db",
         "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
-        "FileURL": "https://bslapp.me/app.apk"
+        "FileURL": "https://files-1252142997.file.myqcloud.com/app3130.apk"
     },
 	{
         "PublishTime": "2020-02-26",
