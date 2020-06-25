@@ -1,8 +1,8 @@
 [
     {
-        "PublishTime": "2020-04-13",
-        "Name": "系统更新",
-        "Description": "没网的下载这个安装===>",
+        "PublishTime": "2020-06-25",
+        "Name": "系统公告",
+        "Description": "因机房故障业务中断，现已全部恢复，祝大家端午安康~",
         "Hint": "系统公告",
         "IsDescypted": true,
         "IsVipOnly": true,
@@ -123,13 +123,13 @@
     {
         "PublishTime": "2020-04-05",
         "Name": "湖南电信停机保号",
-        "Description": "湖南电信停机保号模式，设置中要开低跳",
+        "Description": "湖南电信停机保号模式，可尝试切换CONNECT",
         "Hint": "会员专享",
         "IsDescypted": true,
         "IsVipOnly": true,
         "InnerName": "1586089961804.db",
         "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
-        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20200405/1586089961804.db"
+        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20200414/1586851102197.db"
     },
     {
         "PublishTime": "2020-04-05",
