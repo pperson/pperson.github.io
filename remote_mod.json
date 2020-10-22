@@ -1,27 +1,5 @@
 [
     {
-        "PublishTime": "2020-09-26",
-        "Name": "系统公告",
-        "Description": "喜迎国庆，月会员限时半价~",
-        "Hint": "系统公告",
-        "IsDescypted": true,
-        "IsVipOnly": true,
-        "InnerName": "1573995446105.db",
-        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
-        "FileURL": "https://files-1252142997.file.myqcloud.com/app3130.apk"
-    },
-	{
-        "PublishTime": "2020-02-26",
-        "Name": "变色龙官方TG群",
-        "Description": "戳我加群====》",
-        "Hint": "系统通知",
-        "IsDescypted": true,
-        "IsVipOnly": true,
-        "InnerName": "1548859269555.db",
-        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",
-        "FileURL": "https://t.me/bslapp001"
-    },
-    {
         "PublishTime": "2020-03-24",
         "Name": "变色龙内测链接",
         "Description": "开启后支持UDP免流，逍遥游模式====>",
