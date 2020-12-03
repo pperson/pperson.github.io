@@ -1,54 +1,30 @@
 [
     {
-        "PublishTime": "2020-03-07",
-        "Name": "修订版又发布了",
-        "Description": "强烈建议更新：解决UDP/低跳不能同开，优化低跳模式",
+        "PublishTime": "2020-11-02",
+        "Name": "店铺换新，月卡5元限时优惠",
+        "Description": "戳我====>",
         "Hint": "系统公告",
-        "IsDescypted": true,
-        "IsVipOnly": true,
-        "InnerName": "1573995446105.db",
-        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
-        "FileURL": "https://bslapp.me/app.apk"
-    },
-	{
-        "PublishTime": "2020-02-26",
-        "Name": "变色龙官方TG群",
-        "Description": "戳我加群====》",
-        "Hint": "系统通知",
-        "IsDescypted": true,
-        "IsVipOnly": true,
-        "InnerName": "1548859269555.db",
-        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",
-        "FileURL": "https://t.me/bslapp001"
-    },
-    {
-        "descypted": false,
-        "vipOnly": false,
-        "PublishTime": "2020-01-06",
-        "Name": "逍遥游3号升级完成",
-        "Description": "船新技术支撑，7*24小时稳定高速，可过40G",
-        "Hint": "系统通知",
         "IsDescypted": false,
         "IsVipOnly": false,
         "InnerName": "1573995446105.db",
-        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",
-        "FileURL": "https://t.me/bslml123"
+        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+        "FileURL": "https://www.vqd.com/links/F57E59D3"
     },
     {
-        "PublishTime": "2020-01-06",
-        "Name": "逍遥游3号内测链接",
-        "Description": "点我1元体验逍遥游====>",
+        "PublishTime": "2020-03-24",
+        "Name": "变色龙内测链接",
+        "Description": "开启后支持UDP免流，逍遥游模式====>",
         "Hint": "系统公告",
-        "IsDescypted": true,
-        "IsVipOnly": true,
+        "IsDescypted": false,
+        "IsVipOnly": false,
         "InnerName": "1573995446105.db",
         "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
-        "FileURL": "https://www.heimaofaka.com/item/sowrfLYAtqwAsXl2toh="
+        "FileURL": "https://www.vqd.com/links/F57E59D3"
     },
     {
         "PublishTime": "2020-01-06",
         "Name": "逍遥游三号",
-        "Description": "鹏之徙于南冥也，水击三千里。",
+        "Description": "部分地区已失效，请自行测试",
         "Hint": "内测模式",
         "IsDescypted": true,
         "IsVipOnly": true,
@@ -56,20 +32,9 @@
         "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
         "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20200106/1573995446105.db"
     },
-	{
-	"PublishTime": "2020-03-16",
-	"Name": "山东联通",
-	"Description": "山东联通专用模式",
-	"Hint": "会员专享",
-	"IsDescypted": true,
-	"IsVipOnly": true,
-	"InnerName": "1584333897140.db",
-	"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
-	"FileURL": "https://api.bslapp.me:39900/api/v1/mode/20200316/1584333897140.db"
-     },
-	{
+    {
 	    "PublishTime": "2020-03-07",
-	    "Name": "全国电信绿通",
+	    "Name": "全国电信绿通【推荐】",
 	    "Description": "通用电信停机保号模式，设置中要开低跳",
 	    "Hint": "会员专享",
     	"IsDescypted": true,
@@ -78,6 +43,116 @@
 	    "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
 	    "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20200307/1583565126894.db"
     },
+    {
+        "PublishTime": "2020-04-05",
+        "Name": "北京电信停机保号",
+        "Description": "北京电信停机保号模式，设置中要开低跳",
+        "Hint": "会员专享",
+        "IsDescypted": true,
+        "IsVipOnly": true,
+        "InnerName": "1586089953953.db",
+        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20200405/1586089953953.db"
+    },
+    {
+        "PublishTime": "2020-04-05",
+        "Name": "四川电信停机保号",
+        "Description": "四川电信停机保号模式，设置中要开低跳",
+        "Hint": "会员专享",
+        "IsDescypted": true,
+        "IsVipOnly": true,
+        "InnerName": "1586089955117.db",
+        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20200405/1586089955117.db"
+    },
+    {
+        "PublishTime": "2020-04-05",
+        "Name": "山东电信停机保号",
+        "Description": "山东电信停机保号模式，设置中要开低跳",
+        "Hint": "会员专享",
+        "IsDescypted": true,
+        "IsVipOnly": true,
+        "InnerName": "1586089956582.db",
+        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20200405/1586089956582.db"
+    },
+    {
+        "PublishTime": "2020-04-05",
+        "Name": "广东电信停机保号",
+        "Description": "广东电信停机保号模式，设置中要开低跳",
+        "Hint": "会员专享",
+        "IsDescypted": true,
+        "IsVipOnly": true,
+        "InnerName": "1586089958024.db",
+        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20200405/1586089958024.db"
+    },
+    {
+        "PublishTime": "2020-04-05",
+        "Name": "广西电信停机保号",
+        "Description": "广西电信停机保号模式，设置中要开低跳",
+        "Hint": "会员专享",
+        "IsDescypted": true,
+        "IsVipOnly": true,
+        "InnerName": "1586089959160.db",
+        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20200405/1586089959160.db"
+    },
+    {
+        "PublishTime": "2020-04-05",
+        "Name": "江苏电信停机保号",
+        "Description": "江苏电信停机保号模式，设置中要开低跳",
+        "Hint": "会员专享",
+        "IsDescypted": true,
+        "IsVipOnly": true,
+        "InnerName": "1586089960531.db",
+        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20200405/1586089960531.db"
+    },
+    {
+        "PublishTime": "2020-04-05",
+        "Name": "湖南电信停机保号",
+        "Description": "湖南电信停机保号模式，可尝试切换CONNECT",
+        "Hint": "会员专享",
+        "IsDescypted": true,
+        "IsVipOnly": true,
+        "InnerName": "1586089961804.db",
+        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20200414/1586851102197.db"
+    },
+    {
+        "PublishTime": "2020-04-05",
+        "Name": "重庆电信停机保号",
+        "Description": "重庆电信停机保号模式，设置中要开低跳",
+        "Hint": "会员专享",
+        "IsDescypted": true,
+        "IsVipOnly": true,
+        "InnerName": "1586089963183.db",
+        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20200405/1586089963183.db"
+    },
+    {
+        "PublishTime": "2020-03-25",
+        "Name": "歪卡新直连",
+        "Description": "歪卡全新直连，歪卡、小歪卡、百度系可免",
+        "Hint": "会员专享",
+        "IsDescypted": true,
+        "IsVipOnly": true,
+        "InnerName": "1585123545279.db",
+        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20200325/1585123545279.db"
+    },
+	{
+	"PublishTime": "2020-03-16",
+	"Name": "山东联通",
+	"Description": "山东联通专用模式，下载后把请求方法改成CONNECT",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1584333897140.db",
+	"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+	"FileURL": "https://api.bslapp.me:39900/api/v1/mode/20200316/1584333897140.db"
+     },
     {
         "PublishTime": "2020-01-01",
         "Name": "歪卡、小歪卡直连线路",
@@ -301,7 +376,7 @@
         "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20190917/1568690995599.db"
     },
     {
-        "PublishTime": "2019-07-15",
+        "PublishTime": "2020-04-04",
         "Name": "大王卡全局HTTPS_北京",
         "Description": "大王卡全局HTTPS,北京数据中心",
         "Hint": "会员专享",
@@ -312,7 +387,7 @@
         "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20190715/1563194769486.db"
     },
     {
-        "PublishTime": "2019-07-15",
+        "PublishTime": "2020-04-04",
         "Name": "大王卡全局HTTPS_重庆",
         "Description": "大王卡全局HTTPS,重庆数据中心",
         "Hint": "会员专享",
@@ -323,7 +398,7 @@
         "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20190715/1563194770578.db"
     },
     {
-        "PublishTime": "2019-07-15",
+        "PublishTime": "2020-04-04",
         "Name": "大王卡全局HTTPS_上海",
         "Description": "大王卡全局HTTPS,上海数据中心",
         "Hint": "会员专享",
@@ -334,7 +409,7 @@
         "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20190715/1563194771675.db"
     },
     {
-        "PublishTime": "2019-07-15",
+        "PublishTime": "2020-04-04",
         "Name": "大王卡全局HTTPS_深圳",
         "Description": "大王卡全局HTTPS,深圳数据中心",
         "Hint": "会员专享",
@@ -345,7 +420,7 @@
         "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20190715/1563194773045.db"
     },
     {
-        "PublishTime": "2019-07-15",
+        "PublishTime": "2020-04-04",
         "Name": "大王卡全局HTTPS_天津",
         "Description": "大王卡全局HTTPS,天津数据中心",
         "Hint": "会员专享",
@@ -371,45 +446,6 @@
     {
         "descypted": true,
         "vipOnly": true,
-        "Name": "大王卡华东2",
-        "Description": "大王卡全国通用，用户选最快的节点即可",
-        "Hint": "会员专享",
-        "IsDescypted": true,
-        "PublishTime": "2019-05-07",
-        "IsVipOnly": true,
-        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20180809/1533806490052.db",
-        "InnerName": "1533806490052.db",
-        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
-    },
-    {
-        "descypted": true,
-        "vipOnly": true,
-        "Name": "大王卡华北1",
-        "Description": "大王卡全国通用，用户选最快的节点即可",
-        "Hint": "会员专享",
-        "IsDescypted": true,
-        "PublishTime": "2019-05-07",
-        "IsVipOnly": true,
-        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20180809/1533806491502.db",
-        "InnerName": "1533806491502.db",
-        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
-    },
-    {
-        "descypted": true,
-        "vipOnly": true,
-        "Name": "大王卡华北2",
-        "Description": "大王卡全国通用，用户选最快的节点即可",
-        "Hint": "会员专享",
-        "IsDescypted": true,
-        "PublishTime": "2019-05-07",
-        "IsVipOnly": true,
-        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20180809/1533806493923.db",
-        "InnerName": "1533806493923.db",
-        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
-    },
-    {
-        "descypted": true,
-        "vipOnly": true,
         "Name": "大王卡华南1",
         "Description": "大王卡全国通用，用户选最快的节点即可",
         "Hint": "会员专享",
@@ -419,31 +455,5 @@
         "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20180809/1533806494976.db",
         "InnerName": "1533806494976.db",
         "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
-    },
-    {
-        "descypted": true,
-        "vipOnly": true,
-        "Name": "大王卡华南2",
-        "Description": "大王卡全国通用，用户选最快的节点即可",
-        "Hint": "会员专享",
-        "IsDescypted": true,
-        "PublishTime": "2019-05-07",
-        "IsVipOnly": true,
-        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20180809/1533806496297.db",
-        "InnerName": "1533806496297.db",
-        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
-    },
-    {
-        "descypted": true,
-        "vipOnly": true,
-        "Name": "四川联通",
-        "PublishTime": "2019-01-02",
-        "Description": "[wo音乐][达州]wap模式",
-        "Hint": "会员专享",
-        "IsDescypted": true,
-        "IsVipOnly": true,
-        "InnerName": "1546440827563.db",
-        "Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",
-        "FileURL": "https://api.bslapp.me:39900/api/v1/mode/20190102/1546440827563.db"
     }
 ]
